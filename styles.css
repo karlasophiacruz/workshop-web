@@ -1,0 +1,27 @@
+* {
+    margin: 0 20px;
+}
+p {
+    border: 1px solid black;
+    color: white;
+}
+
+.espacamento {
+    margin: 10px;
+}
+
+#principal {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+}
+
+.chave {
+    background-color: blue;
+}
+
+#divmaior {
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+}
