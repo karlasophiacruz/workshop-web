@@ -1,0 +1,61 @@
+#text {
+    color: #921d15;
+    font-family: cursive;
+    font-weight: normal;
+    text-align: left;
+    font-size: 16px;
+}
+
+#resposta {
+    color: rgb(36, 92, 57);
+    font-weight: bolder;
+    font-family: cursive;
+    font-size: 15px;
+    text-align: center;
+}
+
+.extra {
+    background-color:#f0f0f0;
+    display: block;
+    margin: 10px;
+}
+
+.infoextra {
+    background-color: #f0f0f0;
+    display: inline-block;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding: 20px;
+    text-align: center;
+}
+
+.fundo {
+    background-color:#f0f0f0;
+}
+
+#principal {
+    color: rgb(36, 92, 57);
+    font-weight: bolder;
+    font-family: cursive;
+    font-size: 20px;
+    text-align: center;
+}
+
+.lista {
+    text-align: left;
+    font-size: 16px;
+    font-family: cursive;
+}
+
+.container {
+    background-color: white;
+    text-align: center;
+    font-family: monospace;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 20px;
+}
+
